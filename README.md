@@ -1,2 +1,2 @@
-# weekly5
+# excersice5
 ◕ ◞ ◕ This project was made using https://netnet.studio
