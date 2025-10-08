@@ -1,2 +1,2 @@
-# excersice5
+# excercise5
 ◕ ◞ ◕ This project was made using https://netnet.studio
